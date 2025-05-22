@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=It's%20Jixyuxn%20Page&fontColor=F5F5F5&fontSize=80&fontAlign=51&animation=twinkling&desc=✨%20Interested%20in%20AI%20with%20Mobility%20and%20Robots%20for%20US%20✨&descAlign=50&descAlignY=93" alt="Kundan Patil Banner" />
+
 ## Hi there 👋
 
 <!--
