@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=It's%20Jixyuxn%20Page&fontColor=F5F5F5&fontSize=80&fontAlign=51&animation=twinkling&desc=✨%20Interested%20in%20AI%20with%20Mobility%20and%20Robots%20for%20US%20✨&descAlign=50&descAlignY=93" alt="Kundan Patil Banner" />
+<img src="https://capsule-render.vercel.app/api?type=blur&customColorList=28&height=250&color=gradient&text=It's%20Jixyuxn%20Page&fontColor=91a750&fontSize=60&fontAlign=51&animation=twinkling" />
 
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Sans&size=20&duration=3500&pause=1000&color=91a750&center=true&width=860&lines=Nice+to+Meet+You+ALL!;I'm+Interested+in+AI+with+Mobility+and+Robotics.)](https://git.io/typing-svg)
 
 <!--
 **Jixyuxn/Jixyuxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+15 28
 -->
